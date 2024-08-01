@@ -1,0 +1,16 @@
+.container{
+    color: white;
+    width: 600px;
+    height: fit-content;
+    background:none;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.price{
+    font-size: 18px;
+    font-weight: 500;
+}

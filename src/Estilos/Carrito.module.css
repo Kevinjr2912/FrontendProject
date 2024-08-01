@@ -1,0 +1,36 @@
+  .carrito {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 10%; 
+    padding-bottom: 40%; 
+  }
+
+  .productos {
+    display: flex;
+    flex-direction: column;
+    gap: 0; 
+    width: 70%;
+    border-bottom: solid ;
+    padding: 0;
+    margin: 0;
+    border-top-right-radius:25px;
+    border-top-left-radius:25px;
+    border-right: solid;
+    border-left: solid;
+    border-top: solid;
+  }
+
+  .tituloCarrito {
+    text-align: center;
+    margin-bottom: 0px; 
+    color: #ffffff; 
+    font-size: 24px; 
+    background-color: #7E7E7E;
+    border-top-right-radius:25px;
+    border-top-left-radius:25px;
+  }
+
+  
+

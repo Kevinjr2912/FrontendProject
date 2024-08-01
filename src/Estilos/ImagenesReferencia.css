@@ -1,0 +1,30 @@
+.box-container-img {
+  width: 445px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.img-principal {
+  width: 350px;
+}
+
+.img-principal img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.box-container-childs {
+  display: flex;
+  gap: 15px;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.box-container-childs img {
+  width: 76px;
+  height: 69px;
+  cursor: pointer;
+}
